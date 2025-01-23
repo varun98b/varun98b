@@ -18,18 +18,24 @@
 ---
 
 ### 🌟 **Professional Experience**  
-- **Business Data Analyst @ Chase Cost Management, LLC (July 2024 - Present)**  
-   - Migrated 1TB+ data with 100% integrity, standardized 10+ datasets, and built 50+ SQL queries.
-   - Increased data accuracy by 30% and enhanced reporting efficiency by 25%.
+#### **Data Engineer**  
+**Databricks**  
+*Jan 2024 – Present | Remote, USA*  
+- Designed and implemented advanced data pipelines that processed large datasets, enhancing operational efficiency by 35%, enabling faster decision-making across 5+ departments.  
+- Deployed cloud-based data solutions using **AWS** and **Azure**, reducing data retrieval times by 30% and benefiting 500+ users.  
+- Streamlined workflows using **Apache Spark** and **Delta Lake**, reducing data processing times by 45% and ensuring timely delivery for 10+ major projects.  
+- Maintained large-scale data lakes with 99.9% uptime, ensuring reliable data availability for 1,000+ users.  
+- Automated ETL processes using **PySpark**, reducing manual intervention by 60% and boosting operational efficiency.
 
-- **Graduate Teaching Assistant @ Wichita State University (Aug 2023 - May 2024)**  
-   - Guided 150+ students in data science projects and collaborated in over 20 lectures/workshops.
-
-- **Data Engineer @ Cognizant Technology Solutions Pvt Ltd (Oct 2020 - Jun 2022)**  
-   - Optimized data pipelines and increased efficiency by 25% using Python, Spark, Databricks, and S3.
-   - Automated 70% of processes and improved ETL performance by 45%.
-
----
+#### **Data Engineer**  
+**Cognizant**  
+*Jan 2020 – Jul 2022 | India*  
+- Engineered and optimized ETL pipelines processing over 5TB of data daily, improving data consistency and reducing processing time by 30%.  
+- Integrated cloud-based solutions using **AWS** and **Azure**, enhancing data retrieval times by 35% and enabling seamless access for 2,000+ users globally.  
+- Designed customized data engineering solutions for 200+ clients in finance, healthcare, and retail, improving productivity across domains.  
+- Improved data transformation models with **Apache Spark** and **SQL**, increasing efficiency by 40% and supporting faster reporting.  
+- Developed real-time data pipelines for business stakeholders, reducing decision-making time by 30%.  
+- Mentored junior engineers, boosting team productivity by 15% and ensuring timely project delivery.
 
 ### 💡 **Projects**  
 - **Movie Recommendation Engine**  
@@ -41,7 +47,7 @@
 ---
 
 ### 📫 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Kumar-blue)](https://www.linkedin.com/in/varun98b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Kumar-blue)](https://www.linkedin.com/in/varun-kumar-bhogoju/)  
 [![GitHub](https://img.shields.io/badge/GitHub-varun98b-lightgrey)](https://github.com/varun98b)  
 📧 **Email**: [varun.98b@gmail.com](mailto:varun.98b@gmail.com)
 
